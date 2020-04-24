@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alexander Brand
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computational Social Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Bamberg
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
